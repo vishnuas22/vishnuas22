@@ -36,11 +36,7 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
 ---
 
 <!-- 🌌 GHOST PROTOCOL README X.∞ 🌌 -->
-<!-- Designed for GitHub profile - futuristic, animated, god-tier style -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=System+Booting...+Welcome+to+GHOST+PROTOCOL;Initializing+AI+Neural+Core...;Generating+Futuristic+Portfolio..." alt="Typing SVG" />
-</p>
+<!-- Designed for GitHub profile - futuristic, animated, god-tier style -->s
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="600" alt="AI Circuitry GIF"/>
@@ -52,6 +48,8 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
 
 <p align="center">
   <b><i>“The people who are crazy enough to think they can change the world are the ones who do.” – Steve Jobs</i></b><br>
+
+  
   <b><i>“AI doesn’t have to be evil to destroy humanity – if AI has a goal and humanity just happens to stand in the way, it will destroy humanity.” – Elon Musk</i></b>
 </p>
 
@@ -59,13 +57,6 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
 
 ## 👨‍🚀 WHO IS GHOST?
 
-```ascii
-      _____ _    _  ____   _____  ______ _______ 
-     / ____| |  | |/ __ \ / ____||  ____|__   __|
-    | |  __| |__| | |  | | (___  | |__     | |   
-    | | |_ |  __  | |  | |\___ \ |  __|    | |   
-    | |__| | |  | | |__| |____) || |____   | |   
-     \_____|_|  |_|\____/|_____/ |______|  |_|   
 
 
 ### 💼 Tech Arsenal
