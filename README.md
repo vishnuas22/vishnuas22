@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- Futuristic Welcome Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F3FF&center=true&width=600&lines=Welcome+to+the+Neural+Realm...;I+am+Ghost+%F0%9F%92%AB+AI+Architect.;Data+is+my+Canvas...+AI+is+my+Brush.;Currently+Building+MasterX%2C+an+AI-Enhanced+Learning+Mind+Palace" alt="Typing SVG" />
-</p>
-
-<!-- Glitch / Matrix Background GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPO1z0JgohzEoK4/giphy.gif" width="800"/>
-</p>
-
 ---
 
 ### 🧠 Who is Ghost?
@@ -34,13 +25,6 @@ Here are some ideas to get you started:
 I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specialist**, passionately crafting intelligence from data. I architect machine minds using tools like PyTorch, TensorFlow, and LLMs—while dreaming of a world where every algorithm whispers its secrets.
 
 ---
-
-<!-- 🌌 GHOST PROTOCOL README X.∞ 🌌 -->
-<!-- Designed for GitHub profile - futuristic, animated, god-tier style -->s
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="600" alt="AI Circuitry GIF"/>
-</p>
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/Ghost%20Protocol-Activated-00ffff?style=for-the-badge&logo=ghost&logoColor=white"/>
@@ -54,10 +38,6 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
 </p>
 
 ---
-
-## 👨‍🚀 WHO IS GHOST?
-
-
 
 ### 💼 Tech Arsenal
 
