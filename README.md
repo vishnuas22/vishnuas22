@@ -22,13 +22,23 @@ Here are some ideas to get you started:
 
 > “Code that thinks, systems that learn, and interfaces that awaken curiosity.”
 
-I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specialist**, passionately crafting intelligence from data. I architect machine minds using tools like PyTorch, TensorFlow, and LLMs—while dreaming of a world where every algorithm whispers its secrets.
+I'm Vishnu Shankar, a **Data Scientist | Machine Learning Engineer | Generative AI Specialist**, passionately crafting intelligence from data. I architect machine minds using tools like PyTorch, TensorFlow, and LLMs—while dreaming of a world where every algorithm whispers its secrets.
 
 ---
 
 <h1 align="center">
   <img src="https://img.shields.io/badge/Ghost%20Protocol-Activated-00ffff?style=for-the-badge&logo=ghost&logoColor=white"/>
 </h1>
+
+<p align="center"> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/Website-Coming%20Soon-00ffff?style=for-the-badge&logo=firefox&logoColor=white"/></a> 
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-vishnuas22-00ffff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub-vishnuas22-00ffff?style=for-the-badge&logo=github&logoColor=white"/>
+  </a> 
+</p>
 
 <p align="center">
   <b><i>“The people who are crazy enough to think they can change the world are the ones who do.” – Steve Jobs</i></b><br>
@@ -65,9 +75,19 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
 
 ---
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuas22&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuas22&theme=radical&hide_border=true&background=000000&ring=00ffff&currStreakLabel=00ffff" alt="Streak" /> 
+</p> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vishnuas22&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+
 ### 🔥 Current Mission
 
 ```bash
-> MasterX.v2 launching... ███████░░░░░ 70% 
+> MasterX.v2 launching... ███████░░░░░ 70%
+
 
 
