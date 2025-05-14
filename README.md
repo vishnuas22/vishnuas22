@@ -46,12 +46,18 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,scikit-learn,fastapi,docker,git,linux,jupyter,postgres,mysql,html,css,js,react,azure,aws" />
 </p>
 
-> ⚙️ I specialize in:  
+> ⚙️ I specialize in:
+>  > - Data Scientist / AI Engineer
 > - Deep Learning (CNNs, RNNs, LSTMs, Transformers)  
 > - Generative AI (GANs, VAEs, Diffusion, LLMs)  
 > - MLOps Pipelines (CI/CD, Docker, MLflow)  
 > - Statistical Modeling & Feature Engineering  
-> - Neuro-symbolic Systems & Mind Palace AI Design  
+> - Neuro-symbolic Systems & Mind Palace AI Design
+> - 🧠 Focused on: Deep Learning • Generative AI • LLMs • MLOps
+> - ⚙️ Tools of choice: PyTorch • TensorFlow • Transformers • FastAPI
+> - 💡 Obsession: Building machines that think.
+> - 🧘‍♂️ Monk mode active — forging mastery through disciplined creation.
+
 
 ---
 
