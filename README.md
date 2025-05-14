@@ -44,8 +44,10 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
 <!-- Custom Tech Stack Cards -->
 <p align="center">
 <!--   <img src="https://skillicons.dev/icons?i=python,r,pyspark,scipy,hadoop,kafka,tensorflow,pytorch,keras,fastapi,flask,django,docker,kubernetes,git,linux,postgres,mysql,html,css,js,react,aws" /> -->
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-</p> -->
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p> 
 
 > ⚙️ I specialize in:
 >  > - Data Scientist / AI Engineer
