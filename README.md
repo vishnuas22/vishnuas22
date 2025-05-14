@@ -45,7 +45,8 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
 <p align="center">
 <!--   <img src="https://skillicons.dev/icons?i=python,r,pyspark,scipy,hadoop,kafka,tensorflow,pytorch,keras,fastapi,flask,django,docker,kubernetes,git,linux,postgres,mysql,html,css,js,react,aws" /> -->
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,azure,flask,django,r,github,apple&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,react,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light" />
   </a>
 </p> 
 
