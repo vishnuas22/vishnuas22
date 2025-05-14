@@ -43,7 +43,7 @@ I'm Ghost, a **Data Scientist | Machine Learning Engineer | Generative AI Specia
 
 <!-- Custom Tech Stack Cards -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,plotly,fastapi,docker,git,linux,postgres,mysql,html,css,js,react,aws" />
+  <img src="https://skillicons.dev/icons?i=python,SQL,R,PySpark,SciPy,Hadoop,Kafka,tensorflow,pytorch,keras,fastapi,Flask,Django,docker,Kubernetes,git,linux,postgres,mysql,html,css,js,react,aws" />
 </p>
 
 > ⚙️ I specialize in:
