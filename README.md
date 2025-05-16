@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <!-- Futuristic Welcome Banner -->
 ---
 
-### 🧠 Who is Ghost?
+###WHO AM I?
 
+> ENTJ Personality
 > “Code that thinks, systems that learn, and interfaces that awaken curiosity.”
 
 I'm Vishnu Shankar, a **Data Scientist | Machine Learning Engineer | Generative AI Specialist**, passionately crafting intelligence from data. I architect machine minds using tools like PyTorch, TensorFlow, and LLMs—while dreaming of a world where every algorithm whispers its secrets.
