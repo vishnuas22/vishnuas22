@@ -1,0 +1,38 @@
+<svg width="240" height="40" viewBox="0 0 240 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neonBlue" x1="0" y1="0" x2="240" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FFD0"/>
+      <stop offset="1" stop-color="#0085FF"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="80" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.0"/>
+      <animate attributeName="x1" values="0;240;0" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="80;320;80" dur="2s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="40" rx="18" fill="url(#neonBlue)" filter="url(#glow)"/>
+  <rect x="2" y="2" width="236" height="36" rx="16" fill="url(#glass)" />
+  <rect x="2" y="2" width="236" height="36" rx="16" fill="url(#shimmer)">
+    <animate attributeName="x" values="0;200;0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <g filter="url(#glow)">
+    <circle cx="26" cy="20" r="10" fill="#212B40" stroke="#00FFD0" stroke-width="2"/>
+    <path d="M20 20c0-3.33 5.33-5 8-5s8 1.67 8 5c0 1-1.2 2-2.4 2.8C32.4 23.6 30.4 24 28 24s-4.4-.4-5.6-1.2C21.2 22 20 21 20 20z" fill="#00FFD0" fill-opacity="0.2"/>
+    <ellipse cx="28" cy="18" rx="2.5" ry="3.5" fill="#fff" fill-opacity="0.7"/>
+  </g>
+  <text x="54" y="26" fill="#fff" font-family="'Orbitron', 'Montserrat', Arial, sans-serif" font-size="17" font-weight="bold" letter-spacing="0.5" filter="url(#glow)">PROFILE VIEWS</text>
+  <text x="185" y="26" fill="#00FFD0" font-family="'Orbitron', 'Montserrat', Arial, sans-serif" font-size="17" font-weight="bold" letter-spacing="0.5" filter="url(#glow)">∞</text>
+</svg>

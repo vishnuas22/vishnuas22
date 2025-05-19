@@ -1,25 +1,25 @@
 <div align="center">
   <h1>Hi, I'm Vishnu AS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
    <a href="https://github.com/vishnuas22">
-    <img src="https://komarev.com/ghpvc/?username=vishnuas22&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=vishnuas22&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
   </a>
 
   <a href="https://github.com/vishnuas22?tab=followers">
-    <img src="https://img.shields.io/github/followers/vishnuas22?style=for-the-badge&color=ff69b4&logo=github&label=FOLLOWERS" alt="Followers">
+    <img src="https://img.shields.io/github/followers/vishnuas22?style=flat-square&color=ff69b4&logo=github&label=FOLLOWERS" alt="Followers">
   </a>
 
   <a href="https://github.com/vishnuas22?tab=repositories">
-    <img src="https://img.shields.io/github/stars/vishnuas22?style=for-the-badge&color=yellow&logo=github&label=STARS" alt="Stars">
+    <img src="https://img.shields.io/github/stars/vishnuas22?style=flat-square&color=yellow&logo=github&label=STARS" alt="Stars">
   </a>
 </div>
 
 <!-- INSANE BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Magic-%F0%9F%A7%AA-7D3C98?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Insanity-11%2F10-FF5733?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Scientist-%E2%9C%94%EF%B8%8F-1ABC9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Engineer-%E2%98%83%EF%B8%8F-34495E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Reality-Breaker-FFC300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Magic-%F0%9F%A7%AA-7D3C98.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Insanity-11%2F10-FF5733.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Scientist-%E2%9C%94%EF%B8%8F-1ABC9C.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Engineer-%E2%98%83%EF%B8%8F-34495E.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Reality-Breaker-FFC300.svg?style=for-the-badge" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vishnuas22.vishnuas22" />
 </p>
 
