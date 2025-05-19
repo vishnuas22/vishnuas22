@@ -25,50 +25,24 @@
 
 ---
 
-## 🧑‍🚀 About Me
+<!-- About me -->
 
-> “Code that thinks, systems that learn, and interfaces that awaken curiosity.”
-
-I'm Vishnu Shankar, a **Data Scientist | AI Engineer |**, passionately crafting intelligence from data. I architect machine minds using tools like PyTorch, TensorFlow, and LLMs—while dreaming of a world where every algorithm whispers its secrets.
-
----
-
-<h1>
-  <img src="https://img.shields.io/badge/Ghost%20Protocol-Activated-00ffff?style=flat-square&logo=ghost&logoColor=yellow"/>
-</h1>
-
-<p align="center"> 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-Coming%20Soon-00ffff.svg?style=flat-square&logo=firefox&logoColor=white"/></a> 
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-vishnuas22-00ffff.svg?style=flat-square&logo=linkedin&logoColor=white"/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub-vishnuas22-00ffff.svg?style=flat-square&logo=github&logoColor=white"/>
-  </a> 
-</p>
-
-<p align="center">
-  <b><i>“The people who are crazy enough to think they can change the world are the ones who do.” – Steve Jobs</i></b><br>
-
-  
-  <b><i>“AI doesn’t have to be evil to destroy humanity – if AI has a goal and humanity just happens to stand in the way, it will destroy humanity.” – Elon Musk</i></b>
-</p>
-
----
+<h2  style="color: #ba6771;">About Me 👉 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" /> </h2>
 
 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Vishnu AS and I am a Data Scientist. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> I architect machine minds using tools like PyTorch, TensorFlow, and LLMs—while dreaming of a world where every algorithm whispers its secrets.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Focused on: Deep Learning • Generative AI • LLMs • MLOps.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or anything? Send a message! I will be happy to meet you
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" />
 
-### ⚙️ Tech Arsenal
+<h2 style="color: #ba6771;">Tech Arsenal  <img 
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
+alt="Exploding Head" width="40" height="40" />   </h2>
 
-<!-- Custom Tech Stack Cards
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,pyspark,scipy,hadoop,kafka,tensorflow,pytorch,keras,fastapi,flask,django,docker,kubernetes,git,linux,postgres,mysql,html,css,js,react,aws" /> 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,grafana,elasticsearch,figma,git,github,js,django,flask,docker,kubernetes,linux,kali,aws,mysql,postgresql,html,css,react,vscode,pycharm,anaconda" />
-  </a> 
-</p> -->
 
----
+🧑‍💻Programming Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" /> </h2>
 
 ### 🧑‍💻 **Programming Languages**  
 <p>
@@ -88,8 +62,6 @@ I'm Vishnu Shankar, a **Data Scientist | AI Engineer |**, passionately crafting 
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="PowerBI" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912.svg?style=flat-square&logo=power-bi&logoColor=white" />
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=flat-square&logo=anaconda&logoColor=white" />
-
-
   
 </p>
 
