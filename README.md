@@ -37,20 +37,21 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or anything? Send a message! I will be happy to meet you
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" />
 
-<h2 style="color: #ba6771;">Tech Arsenal  <img 
+
+
+<h2 style="color: #ba6771;">Tech Arsenal<img 
   src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
 alt="Exploding Head" width="40" height="40" />   </h2>
 
 
-🧑‍💻Programming Languages <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" /> </h2>
+**🧑‍💻PROGRAMMING LANGUAGES**  
 
-### 🧑‍💻 **Programming Languages**  
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
-### 🤖 **AI/ML & Data Science**  
+**🧑‍💻 AI/ML DATASCIENCE** 
 <p>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c.svg?style=flat-square&logo=pytorch&logoColor=white" />
@@ -65,7 +66,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   
 </p>
 
-### 🌐 **Web Development**  
+**🌐 WEB DEVELOPMENT**  
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
@@ -74,12 +75,12 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000.svg?&style=flat-square&logo=flask&logoColor=white" />
 
   
-### ☁️ **Cloud System**  
+**☁️ CLOUD SYSTEM**  
 <p>
   <img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-web-services&logoColor=white" />
 </p>
 
-### 🛠️ **Tools & Platforms**  
+**🛠️ TOOLS & PLATFORMS**  
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white" />
@@ -88,12 +89,12 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-### 🧑🏼‍🎨 **Design**  
+**🧑🏼‍🎨  DESIGN**  
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-### 🧑🏼‍🎨 **Database**  
+ **🧑🏼‍🎨  DATABASE**  
 <p>
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1.svg?style=flat-square&logo=neo4j&logoColor=white" />
@@ -102,33 +103,13 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 </p>
 
-<!--## 🏆 GitHub Stats & Activity -->
-
-<div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="50" height="50" />
-    GITHUB STATS & ACTIVITY
-  </h1>
-</div>
-
-<div>
- <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=vishnuas22&theme=transparent&hide_border=true" alt="GitHub Stats">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuas22&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak">
-    </td>
-  </tr>
-</table>
-</div>
-
-
-
-<div align="center" >
+<!--## <div align="center" >
 <h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" /> Skill Matrix</h1>
- </div>
+ </div> -->
+
+ <div align='center'>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />  <h2> SKILL MATRIX </h2>
+</div>
  
 <table width="100%">
   <tr>
@@ -149,10 +130,29 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   </tr>
 </table>
 
+<!--## 🏆 GitHub Stats & Activity -->
+<div align='center'>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" />
+  <h2>GITHUB STATS & ACTIVITY</h2>
+</div>
+
+<div>
+ <table align='center'>
+  <tr>
+    <td align="center">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=vishnuas22&theme=transparent&hide_border=true" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuas22&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+</div>
+
+
 ---
 
 > ⚙️ I specialize in:
->  > - Data Scientist / AI Engineer
 > - Deep Learning (CNNs, RNNs, LSTMs, Transformers)  
 > - Generative AI (GANs, VAEs, Diffusion, LLMs)  
 > - MLOps Pipelines (CI/CD, Docker, MLflow)  
