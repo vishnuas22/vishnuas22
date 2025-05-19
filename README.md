@@ -138,6 +138,17 @@ I'm Vishnu Shankar, a **Data Scientist | Machine Learning Engineer | Generative 
 
 ---
 
+
+## <img src="assets/glass-publications.png" height="28"> Publications
+
+- **Brain Machine Interface: Paths, Dangers, and Strategies of Creating Super Humans with Dominating Market Analysis
+ (International Journal for Research in Engineering Application and Management, IJREAM)**
+  – IJREAM 2023
+- **Big Data: Current Trends and the Future(International Conference: Emerging Trends in Signal Systems and Information**
+  – ICETSSI 2022
+
+---
+
 ## <img src="assets/glass-projects.png" height="28"> Featured Projects
 
 ### 🚀 <span style="color:#00ffe0;">AGI Composer</span>
@@ -202,6 +213,42 @@ I'm Vishnu Shankar, a **Data Scientist | Machine Learning Engineer | Generative 
  🌒 9.30 PM: Sci-fi, dream in code      
 
 ```
+
+## <img src="assets/glass-funfacts.png" height="28"> Fun Facts
+
+- 🏄‍♂️ Once coded neural nets on the beach.
+- 🏆 Kaggle Grandmaster, hackathon addict.
+- 🤖 My AI twin sometimes gives better advice than me.
+- 🍕 Pineapple on pizza? Yes, and add green chili!
+- 🦄 Can recite π to 50 digits, but prefers tau.
+
+---
+
+## <img src="assets/glass-contributions.png" height="28"> Open Source & Community
+
+- 🧑‍💻 Maintainer: [AGI Composer](https://github.com/vishnuas22/agi-composer), [QML-X](https://github.com/vishnuas22/qml-x)
+- 🧑‍🏫 Mentor: Quantum/AI bootcamps, [Kaggle](https://kaggle.com/vishnuas22)
+- 🎤 Speaker: Global AI, QML, Open Science events
+- 🤝 Open to collab! DM or [open an issue](https://github.com/vishnuas22/vishnuas22/issues)
+
+---
+
+## <img src="assets/glass-qa.png" height="28"> Q & A with My AI Twin
+
+<details>
+  <summary><b>🤖 Ask my AI Twin!</b></summary>
+  <ul>
+    <li><b>Q:</b> What inspires you?</li>
+    <li><b>AI:</b> “The intersection of code and consciousness.”</li>
+    <li><b>Q:</b> Night owl or early bird?</li>
+    <li><b>AI:</b> “I’m always awake in the cloud.”</li>
+    <li><b>Q:</b> Can code be art?</li>
+    <li><b>AI:</b> “Absolutely. Every line is a brushstroke.”</li>
+    <li><b>Q:</b> Pineapple on pizza?</li>
+    <li><b>AI:</b> “Only with extra neural sauce.”</li>
+  </ul>
+</details>
+
 
 ---
 
