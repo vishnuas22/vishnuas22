@@ -35,5 +35,5 @@
     <ellipse cx="26" cy="29" rx="8" ry="4" fill="#fd00c3" fill-opacity="0.3"/>
   </g>
   <text x="54" y="26" fill="#fff" font-family="'Orbitron', 'Montserrat', Arial, sans-serif" font-size="17" font-weight="bold" letter-spacing="0.5" filter="url(#glow)">FOLLOWERS</text>
-  <text x="170" y="26" fill="#fd00c3" font-family="'Orbitron', 'Montserrat', Arial, sans-serif" font-size="17" font-weight="bold" letter-spacing="0.5" filter="url(#glow)">∞</text>
+  <text x="170" y="26" fill="#fd00c3" font-family="'Orbitron', 'Montserrat', Arial, sans-serif" font-size="17" font-weight="bold" letter-spacing="0.5" filter="url(#glow)">123</text>
 </svg>
