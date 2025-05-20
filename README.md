@@ -154,20 +154,10 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 ---
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />  <h2> THINGS THAT EXCITES ME </h2>
-
-<img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Brain.png" alt="Brain" width="36" height="36" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="36" height="36" />&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mechanic.png" alt="Mechanic" width="36" height="36" />
-
-
+<div align='center'>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" />
+  <h2>THINGS THAT EXCITES ME</h2>
 </div>
-
----
-
-## 🚀 My Specialties
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="24" height="24" /> **Deep Learning:** CNNs • RNNs • LSTMs • Transformers
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="24" height="24" /> **Generative AI:** GANs • VAEs • Diffusion • LLMs
