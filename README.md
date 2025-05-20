@@ -1,15 +1,19 @@
 <div align="center">
   <h1>Hi, I'm Vishnu AS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-   <a href="https://github.com/vishnuas22">
-    <img src="https://komarev.com/ghpvc/?username=vishnuas22&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views">
+  
+  <!-- Profile Views -->
+  <a href="https://github.com/vishnuas22">
+    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-profile-views.svg?raw=true" alt="Profile Views (auto-updated)" height="40">
   </a>
-
+  
+  <!-- Followers -->
   <a href="https://github.com/vishnuas22?tab=followers">
-    <img src="https://img.shields.io/github/followers/vishnuas22?style=flat-square&color=ff69b4&logo=github&label=FOLLOWERS" alt="Followers">
+    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-followers.svg?raw=true" alt="Followers (auto-updated)" height="40">
   </a>
-
+  
+  <!-- Stars -->
   <a href="https://github.com/vishnuas22?tab=repositories">
-    <img src="https://img.shields.io/github/stars/vishnuas22?style=flat-square&color=yellow&logo=github&label=STARS" alt="Stars">
+    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-stars.svg?raw=true" alt="Stars (auto-updated)" height="40">
   </a>
 </div>
 
