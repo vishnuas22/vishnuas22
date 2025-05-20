@@ -12,6 +12,7 @@
     <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-stars.svg?raw=true" alt="Stars" height="40">
   </a>
 </div>
+</div>
 
 
 
@@ -105,9 +106,8 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 </p>
 
-<!--## <div align="center" >
-<h1> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" /> Skill Matrix</h1>
- </div> -->
+
+
 
  <div align='center'>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />  <h2> SKILL MATRIX </h2>
@@ -154,49 +154,51 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 ---
 
-> ⚙️ I specialize in:
-> - Deep Learning (CNNs, RNNs, LSTMs, Transformers)  
-> - Generative AI (GANs, VAEs, Diffusion, LLMs)  
-> - MLOps Pipelines (CI/CD, Docker, MLflow)  
-> - Statistical Modeling & Feature Engineering  
-> - Neuro-symbolic Systems & Mind Palace AI Design
-> - 🧠 Focused on: Deep Learning • Generative AI • LLMs • MLOps
-> - ⚙️ Tools of choice: PyTorch • TensorFlow • Transformers • FastAPI
-> - 💡 Obsession: Building machines that think.
-> - 🧘‍♂️ Monk mode active — forging mastery through disciplined creation.
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />  <h2> THINGS THAT EXCITES ME </h2>
+
+<img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Brain.png" alt="Brain" width="36" height="36" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="36" height="36" />&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mechanic.png" alt="Mechanic" width="36" height="36" />
+
+
+</div>
 
 ---
-  <!--<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnuas22&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuas22&hide_border=true&background=000000&currStreakLabel=00ffff&currStreakNum=00ffff&sideNums=ffffff&sideLabels=00ffff&dates=ffffff&fire=00ffff&ring=00ffff" alt="GitHub Streak Stats" />
 
+## 🚀 My Specialties
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnuas22&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" alt="GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuas22&theme=radical&hide_border=true&background=000000&ring=00ffff&currStreakLabel=00ffff" alt="Streak" /> 
-
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuas22&layout=compact&hide_border=true&bg_color=000000&title_color=00ffff&text_color=ffffff" alt="Top Languages" />
-
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuas22&theme=monokai&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnuas22&show_icons=true&theme=merko&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuas22&layout=compact&theme=gruvbox" /> 
-</p>  -->
-
-<!-- Random Joke Widget 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%233d3d3d&qColor=%23ffdd00&aColor=%23ffdd00" />
-</p> -->
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="24" height="24" /> **Deep Learning:** CNNs • RNNs • LSTMs • Transformers
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="24" height="24" /> **Generative AI:** GANs • VAEs • Diffusion • LLMs
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="24" height="24" /> **MLOps Pipelines:** CI/CD • Docker • MLflow
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="24" height="24" /> **Statistical Modeling & Feature Engineering**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Jigsaw.png" alt="Jigsaw" width="24" height="24" /> **Neuro-symbolic Systems & Mind Palace AI Design**
 
 ---
+
+## 💡 Obsession
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="24" height="24" /> Building machines that think.
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Lotus%20Position.png" alt="Lotus Position" width="36" height="36" />
+<br/>
+<b>🧘 Monk mode active — forging mastery through disciplined creation.</b>
+</div>
+
+
+
 
 
 ## <img src="assets/glass-publications.png" height="28"> Publications
 
-- **Brain Machine Interface: Paths, Dangers, and Strategies of Creating Super Humans with Dominating Market Analysis
- (International Journal for Research in Engineering Application and Management, IJREAM)**
+- Brain Machine Interface: Paths, Dangers, and Strategies of Creating Super Humans with Dominating Market Analysis
+ (International Journal for Research in Engineering Application and Management, IJREAM)
   – IJREAM 2023
-- **Big Data: Current Trends and the Future(International Conference: Emerging Trends in Signal Systems and Information**
+- Big Data: Current Trends and the Future(International Conference: Emerging Trends in Signal Systems and Information
   – ICETSSI 2022
 
 ---
