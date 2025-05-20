@@ -30,7 +30,7 @@
 
 <!-- About me -->
 
-<h2  style="color: #ba6771;">About Me 👉 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" /> </h2>
+<h2  style="color: #ba6771;">About Me <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Wolf.png" alt="Wolf" width="40" height="40" /> </h2>
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Vishnu AS and I am a Data Scientist. <br />
@@ -42,9 +42,9 @@
 
 
 
-<h2 style="color: #ba6771;">Tech Arsenal<img 
-  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
-alt="Exploding Head" width="40" height="40" />   </h2>
+<h2 style="color: #ba6771;">Tech Arsenal <img 
+  src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Cat%20Face.png"
+alt="Cat face" width="40" height="40" />   </h2>
 
 
 **🧑‍💻PROGRAMMING LANGUAGES**  
@@ -110,7 +110,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 
  <div align='center'>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />  <h2> SKILL MATRIX </h2>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Cockroach.png" alt="cockroach" width="80" height="80" />  <h2> SKILL MATRIX </h2>
 </div>
  
 <table width="100%">
@@ -134,7 +134,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 <!--## 🏆 GitHub Stats & Activity -->
 <div align='center'>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" />
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Fox.png" alt="fox" width="70" height="70" />
   <h2>GITHUB STATS & ACTIVITY</h2>
 </div>
 
@@ -155,23 +155,22 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 ---
 
 <div align='center'>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="60" height="60" />
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Jellyfish.png" alt="Jelly fish" width="80" height="80" />
   <h2>THINGS THAT EXCITES ME</h2>
 </div>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="24" height="24" /> **Deep Learning:** CNNs • RNNs • LSTMs • Transformers
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="Crystal Ball" width="24" height="24" /> **Generative AI:** GANs • VAEs • Diffusion • LLMs
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/DNA.png" alt="DNA" width="24" height="24" /> **Deep Learning:** CNNs • RNNs • LSTMs • Transformers
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Light%20Bulb.png" alt="Light bulb" width="24" height="24" /> **Generative AI:** GANs • VAEs • Diffusion • LLMs
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="24" height="24" /> **MLOps Pipelines:** CI/CD • Docker • MLflow
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="24" height="24" /> **Statistical Modeling & Feature Engineering**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Jigsaw.png" alt="Jigsaw" width="24" height="24" /> **Neuro-symbolic Systems & Mind Palace AI Design**
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Brain.png" alt="JBrain" width="24" height="24" /> **Neuro-symbolic Systems & Mind Palace AI Design**
 
 ---
 
-## 💡 Obsession
-
-> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="24" height="24" /> Building machines that think.
-
----
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Ring%20Buoy.png" alt="RING" width="80" height="80" />
+  <h2>OBSESSION</h2>
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Lotus%20Position.png" alt="Lotus Position" width="36" height="36" />
