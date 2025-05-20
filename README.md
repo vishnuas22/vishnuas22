@@ -1,21 +1,19 @@
 <div align="center">
   <h1>Hi, I'm Vishnu AS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
-  <!-- Profile Views -->
+<div align="center">
   <a href="https://github.com/vishnuas22">
-    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-profile-views.svg?raw=true" alt="Profile Views (auto-updated)" height="40">
+    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-profile-views.svg?raw=true" alt="Profile Views" height="40">
   </a>
-  
-  <!-- Followers -->
   <a href="https://github.com/vishnuas22?tab=followers">
-    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-followers.svg?raw=true" alt="Followers (auto-updated)" height="40">
+    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-followers.svg?raw=true" alt="Followers" height="40">
   </a>
-  
-  <!-- Stars -->
   <a href="https://github.com/vishnuas22?tab=repositories">
-    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-stars.svg?raw=true" alt="Stars (auto-updated)" height="40">
+    <img src="https://github.com/vishnuas22/vishnuas22/blob/main/badges/futuristic-stars.svg?raw=true" alt="Stars" height="40">
   </a>
 </div>
+
+
 
 <!-- INSANE BADGES -->
 <p align="center">
