@@ -15,8 +15,8 @@ BADGES = {
 # Regex patterns to match the number text in your SVG badges.
 SVG_PATTERNS = {
     "followers": r'(<text[^>]+x="170"[^>]*>)([^<]+)(</text>)',
-    "stars": r'(<text[^>]+x="150"[^>]*>)([^<]+)(</text>)',
-    "views": r'(<text[^>]+x="185"[^>]*>)([^<]+)(</text>)',
+    "stars": r'(<text[^>]+x="170"[^>]*>)([^<]+)(</text>)',
+    "views": r'(<text[^>]+x="170"[^>]*>)([^<]+)(</text>)',
 }
 
 def get_followers():
