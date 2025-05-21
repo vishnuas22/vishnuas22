@@ -200,22 +200,22 @@ alt="Cat face" width="40" height="40" />   </h2>
   <tr>
     <td align="center">
       <b style="color:#00ffe0;">2020</b><br>
-      <img src="assets/ai.png" width="40"><br>
+      <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Technologist.webp" width="40"><br>
       <i>AI Foundations</i>
     </td>
     <td align="center">
       <b style="color:#aaffff;">2022</b><br>
-      <img src="assets/quantum.png" width="40"><br>
+      <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/DNA.png" width="40"><br>
       <i>Quantum ML</i>
     </td>
     <td align="center">
       <b style="color:#ffb3ff;">2023-24</b><br>
-      <img src="assets/bio.png" width="40"><br>
+      <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Mirror%20Ball.png" width="40"><br>
       <i>Bio-Algorithmics</i>
     </td>
     <td align="center">
       <b style="color:#8affc1;">2025+</b><br>
-      <img src="assets/synaptic.png" width="40"><br>
+      <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Robot.png" width="40"><br>
       <i>AGI & Synaptic Art</i>
     </td>
   </tr>
@@ -223,24 +223,24 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 ---
 
-## <img src="assets/glass-day.png" height="28"> G - 1300
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Crown.webp" alt="G1300" width="80" height="80" />
+  <h2> G-1300 </h2>
+</div>
 
-```ascii
+- ☀️ 5.30 AM: Cold Shower
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20in%20Lotus%20Position.png" alt="G1300" width="30" height="30" /> 5.45 AM: Meditate
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Technologist.webp" alt="G1300" width="30" height="30" /> 6.00 AM: Reading, Mails, Networking
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Running.png" alt="G1300" width="30" height="30" /> 7.30 AM: Sunrise run      
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Teacup%20Without%20Handle.png" alt="G1300" width="30" height="30" /> 8.00 AM: Family Breakfast 
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Technologist.webp" alt="G1300" width="30" height="30" /> 10.00 AM - 1.00 PM: Code, Projects, Skills
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Fork%20And%20Knife%20With%20Plate.webp" alt="G1300" width="30" height="30" /> 1.00 PM: Lunch & generative sketch  
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Technologist.webp" alt="G1300" width="30" height="30" /> 2.00 PM: Collab, open-source PRs, Code  
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Globe%20with%20Meridians.png" alt="G1300" width="30" height="30" /> 4.00 PM: Networking, Tinker with bio-algos      
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Headphone.png" alt="G1300" width="30" height="30" /> 6.00 PM: Fusion music    
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Technologist.webp" alt="G1300" width="30" height="30" /> 7.30 PM: Code,Github,LinkedIn
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Owl.png" alt="G1300" width="30" height="30" /> 9.30 PM: Sci-fi, dream in code      
 
- ☀️ 5.30 AM: Cold Shower
- 🧘 5.45 AM: Meditate
- 💻 6.00 AM: Reading, Mails, Networking
- 🚶‍♂️ 7.30 AM: Sunrise run      
- ☕ 8.00 AM: Family Breakfast 
- 💻 10.00 AM - 1.00 PM: Code, Projects, Skills
- 🎨 1.00 PM: Lunch & generative sketch  
- 🧑‍💻 2.00 PM: Collab, open-source PRs, Code  
- 🧬 4.00 PM: Networking, Tinker with bio-algos      
- 🎧 6.00 PM: Fusion music    
- 💻 7.30 PM: Code,Github,LinkedIn
- 🌒 9.30 PM: Sci-fi, dream in code      
-
-```
 
 <div align='center'>
   <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Books.webp" alt="G1300" width="80" height="80" />
