@@ -110,7 +110,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 
  <div align='center'>
-  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Cockroach.webp" alt="cockroach" width="80" height="80" />  <h2> SKILL MATRIX </h2>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Mechanical%20Arm.webp" alt="Trophy" width="80" height="80" />  <h2> SKILL MATRIX </h2>
 </div>
  
 <table width="100%">
@@ -168,31 +168,9 @@ alt="Cat face" width="40" height="40" />   </h2>
 ---
 
 <div align='center'>
-  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Cockroach.webp" alt="Lizard" width="80" height="80" />
-  <h2>OBSESSION</h2>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Bubbles.png" alt="PROJECTS" width="80" height="80" />
+  <h2>  FEATURED PROJECTS </h2>
 </div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Lotus%20Position.png" alt="Lotus Position" width="36" height="36" />
-<br/>
-<b>🧘 Monk mode active — forging mastery through disciplined creation.</b>
-</div>
-
-
-
-
-
-## <img src="assets/glass-publications.png" height="28"> Publications
-
-- Brain Machine Interface: Paths, Dangers, and Strategies of Creating Super Humans with Dominating Market Analysis
- (International Journal for Research in Engineering Application and Management, IJREAM)
-  – IJREAM 2023
-- Big Data: Current Trends and the Future(International Conference: Emerging Trends in Signal Systems and Information
-  – ICETSSI 2022
-
----
-
-## <img src="assets/glass-projects.png" height="28"> Featured Projects
 
 ### 🚀 <span style="color:#00ffe0;">AGI Composer</span>
 > *First open-source AI music composer. Code that creates, evolves, and performs.*
@@ -207,11 +185,18 @@ alt="Cat face" width="40" height="40" />   </h2>
 > *Living, evolving algorithms. Code that mutates, adapts, and thrives.*
 
 
----
 
-## <img src="assets/glass-timeline.png" height="28"> Timeline
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20in%20Lotus%20Position.png" alt="G1300" width="80" height="80" />
+  <h2> 🧘 MONK MODE ACTIVE </h2>
+</div>
 
-<table width="100%">
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Stopwatch.png" alt="G1300" width="80" height="80" />
+  <h2> TIMELINE </h2>
+</div>
+
+<table width="100%" align='center'>
   <tr>
     <td align="center">
       <b style="color:#00ffe0;">2020</b><br>
@@ -256,6 +241,20 @@ alt="Cat face" width="40" height="40" />   </h2>
  🌒 9.30 PM: Sci-fi, dream in code      
 
 ```
+
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Books.webp" alt="G1300" width="80" height="80" />
+  <h2>  PUBLICATIONS </h2>
+</div>
+
+
+- Brain Machine Interface: Paths, Dangers, and Strategies of Creating Super Humans with Dominating Market Analysis
+ (International Journal for Research in Engineering Application and Management, IJREAM)
+  – IJREAM 2023
+  
+- Big Data: Current Trends and the Future(International Conference: Emerging Trends in Signal Systems and Information
+  – ICETSSI 2022
+
 
 ## <img src="assets/glass-funfacts.png" height="28"> Fun Facts
 
