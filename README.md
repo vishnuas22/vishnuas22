@@ -110,7 +110,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 
  <div align='center'>
-  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Cockroach.png" alt="cockroach" width="80" height="80" />  <h2> SKILL MATRIX </h2>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Cockroach.webp" alt="cockroach" width="80" height="80" />  <h2> SKILL MATRIX </h2>
 </div>
  
 <table width="100%">
@@ -168,7 +168,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 ---
 
 <div align='center'>
-  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Ring%20Buoy.png" alt="RING" width="80" height="80" />
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Cockroach.webp" alt="Lizard" width="80" height="80" />
   <h2>OBSESSION</h2>
 </div>
 
