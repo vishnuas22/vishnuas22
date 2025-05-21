@@ -259,7 +259,6 @@ alt="Cat face" width="40" height="40" />   </h2>
 ## <img src="assets/glass-funfacts.png" height="28"> Fun Facts
 
 - 🏄‍♂️ Once coded neural nets on the beach.
-- 🏆 Kaggle Grandmaster, hackathon addict.
 - 🤖 My AI twin sometimes gives better advice than me.
 - 🍕 Pineapple on pizza? Yes, and add green chili!
 - 🦄 Can recite π to 50 digits, but prefers tau.
@@ -270,7 +269,6 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 - 🧑‍💻 Maintainer: [AGI Composer](https://github.com/vishnuas22/agi-composer), [QML-X](https://github.com/vishnuas22/qml-x)
 - 🧑‍🏫 Mentor: Quantum/AI bootcamps, [Kaggle](https://kaggle.com/vishnuas22)
-- 🎤 Speaker: Global AI, QML, Open Science events
 - 🤝 Open to collab! DM or [open an issue](https://github.com/vishnuas22/vishnuas22/issues)
 
 ---
