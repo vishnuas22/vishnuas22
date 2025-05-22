@@ -172,6 +172,9 @@ alt="Cat face" width="40" height="40" />   </h2>
   <h2>  FEATURED PROJECTS </h2>
 </div>
 
+
+
+
 ### 🚀 <span style="color:#00ffe0;">AGI Composer</span>
 > *First open-source AI music composer. Code that creates, evolves, and performs.*
 
@@ -184,6 +187,37 @@ alt="Cat face" width="40" height="40" />   </h2>
 ### 🌱 <span style="color:#8affc1;">BioAlgo</span>
 > *Living, evolving algorithms. Code that mutates, adapts, and thrives.*
 
+
+<h1 align="center">🧭 3D AI Learning Timeline 🚀</h1>
+
+---
+
+## 🏆 **Current Mastery**
+
+- 🔵 **Mathematics for AI** (Linear Algebra, Calc, Probability, Statistics)
+- 🟡 **Python for Data Science**
+- 🟢 **Machine Learning Foundations**
+- 🟣 **Deep Learning** (CNNs, RNNs, Transformers)
+- 🔶 **NLP & Computer Vision (SOTA architectures)**
+
+---
+
+## 🌟 **Advanced AI Concepts (Now Studying)**
+
+<details>
+
+| 3D Milestone           | Concepts & Tools                              | Resources/Links |
+|------------------------|-----------------------------------------------|-----------------|
+| 🧠 Large Language Models | GPT, Llama, Mistral, Retrieval Augmented Gen | [HuggingFace](https://huggingface.co/), [Anthropic](https://www.anthropic.com/) |
+| 🧩 Diffusion Models    | Stable Diffusion, GANs, VAEs, Image Synthesis | [Papers](https://arxiv.org/), [Replicate](https://replicate.com/) |
+| 🕸️ Graph Neural Nets   | GCNs, GAT, GraphSAGE, Applications in Bio/RecSys | [DGL](https://www.dgl.ai/), [PyG](https://pytorch-geometric.readthedocs.io/) |
+| 🦾 RL & Planning       | RLHF, PPO, DDPG, Model-based RL, Sim2Real     | [OpenAI Gym](https://gym.openai.com/) |
+| 🛡️ AI Safety/Ethics   | Fairness, Robustness, Explainability, Alignment | [AISC](https://aisafety.camp/), [Papers](https://paperswithcode.com/task/ai-safety) |
+| 🧬 Multimodal AI       | Text+Image, Video+Audio, CLIP, Flamingo       | [OpenAI CLIP](https://github.com/openai/CLIP) |
+| 🏗️ Foundation Models  | Training, Fine-tuning, Prompt Engineering     | [Stanford HELM](https://crfm.stanford.edu/helm/latest/) |
+| 🛰️ MLOps & Scaling    | MLflow, Kubeflow, Vector DBs, LLMOps          | [MLflow](https://mlflow.org/), [LangChain](https://python.langchain.com/) |
+
+</details>
 
 
 <div align='center'>
