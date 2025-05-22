@@ -188,22 +188,26 @@ alt="Cat face" width="40" height="40" />   </h2>
 > *Living, evolving algorithms. Code that mutates, adapts, and thrives.*
 
 
-<h1 align="center">🧭 3D AI Learning Timeline 🚀</h1>
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Bubbles.png" alt="PROJECTS" width="80" height="80" />
+  <h2>  AI Mastering </h2>
+</div>
 
----
-
-## 🏆 **Current Mastery**
-
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Bubbles.png" alt="PROJECTS" width="80" height="80" />
+  <h2> CURRENT MASTERY </h2>
+</div>
 - 🔵 **Mathematics for AI** (Linear Algebra, Calc, Probability, Statistics)
 - 🟡 **Python for Data Science**
 - 🟢 **Machine Learning Foundations**
 - 🟣 **Deep Learning** (CNNs, RNNs, Transformers)
 - 🔶 **NLP & Computer Vision (SOTA architectures)**
 
----
 
-## 🌟 **Advanced AI Concepts (Now Studying)**
-
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Bubbles.png" alt="PROJECTS" width="80" height="80" />
+  <h2>  ADVANCED AI (NOW STUDYING) </h2>
+</div>
 
 | 3D Milestone           | Concepts & Tools                              | Resources/Links |
 |------------------------|-----------------------------------------------|-----------------|
