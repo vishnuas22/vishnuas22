@@ -204,7 +204,6 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 ## 🌟 **Advanced AI Concepts (Now Studying)**
 
-<details>
 
 | 3D Milestone           | Concepts & Tools                              | Resources/Links |
 |------------------------|-----------------------------------------------|-----------------|
@@ -217,7 +216,6 @@ alt="Cat face" width="40" height="40" />   </h2>
 | 🏗️ Foundation Models  | Training, Fine-tuning, Prompt Engineering     | [Stanford HELM](https://crfm.stanford.edu/helm/latest/) |
 | 🛰️ MLOps & Scaling    | MLflow, Kubeflow, Vector DBs, LLMOps          | [MLflow](https://mlflow.org/), [LangChain](https://python.langchain.com/) |
 
-</details>
 
 
 <div align='center'>
