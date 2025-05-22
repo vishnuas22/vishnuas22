@@ -189,14 +189,15 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 
 <div align='center'>
-  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Bubbles.png" alt="PROJECTS" width="80" height="80" />
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Robot.png" alt="Robot" width="80" height="80" />
   <h2>  AI Mastering </h2>
 </div>
 
 <div align='center'>
-  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Bubbles.png" alt="PROJECTS" width="80" height="80" />
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Scientist.png" alt="Scientist" width="40" height="40" />
   <h2> CURRENT MASTERY </h2>
 </div>
+
 - 🔵 **Mathematics for AI** (Linear Algebra, Calc, Probability, Statistics)
 - 🟡 **Python for Data Science**
 - 🟢 **Machine Learning Foundations**
@@ -205,7 +206,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 
 <div align='center'>
-  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Bubbles.png" alt="PROJECTS" width="80" height="80" />
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/High%20Voltage.png" alt="High volt" width="60" height="60" />
   <h2>  ADVANCED AI (NOW STUDYING) </h2>
 </div>
 
@@ -279,6 +280,15 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 
 <div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Smiling%20Face%20with%20Sunglasses.png" alt="sunglass" width="60" height="60" />
+  <h2> Fun Facts </h2>
+</div>
+- 🏄‍♂️ Once coded neural nets on the beach.
+- 🤖 My AI twin sometimes gives better advice than me.
+- 🍕 Pineapple on pizza? Yes, and add green chili!
+- 🦄 Can recite π to 50 digits, but prefers tau.
+
+<div align='center'>
   <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Books.webp" alt="G1300" width="80" height="80" />
   <h2>  PUBLICATIONS </h2>
 </div>
@@ -292,12 +302,7 @@ alt="Cat face" width="40" height="40" />   </h2>
   – ICETSSI 2022
 
 
-## <img src="assets/glass-funfacts.png" height="28"> Fun Facts
 
-- 🏄‍♂️ Once coded neural nets on the beach.
-- 🤖 My AI twin sometimes gives better advice than me.
-- 🍕 Pineapple on pizza? Yes, and add green chili!
-- 🦄 Can recite π to 50 digits, but prefers tau.
 
 ---
 
