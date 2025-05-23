@@ -304,18 +304,10 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 
 
----
-
-## <img src="assets/glass-contributions.png" height="28"> Open Source & Community
-
-- 🧑‍💻 Maintainer: [AGI Composer](https://github.com/vishnuas22/agi-composer), [QML-X](https://github.com/vishnuas22/qml-x)
-- 🧑‍🏫 Mentor: Quantum/AI bootcamps, [Kaggle](https://kaggle.com/vishnuas22)
-- 🤝 Open to collab! DM or [open an issue](https://github.com/vishnuas22/vishnuas22/issues)
-
----
-
-## <img src="assets/glass-qa.png" height="28"> Q & A with My AI Twin
-
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Robot.png" alt="Robot" width="80" height="80" />
+  <h2>  Q & A WITH MY AI TWIN </h2>
+</div>
 <details>
   <summary><b>🤖 Ask my AI Twin!</b></summary>
   <ul>
@@ -333,7 +325,10 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 ---
 
-### 🔥 Current Mission
+<div align='center'>
+  <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Books.webp" alt="G1300" width="80" height="80" />
+  <h2> CURRENT MISSION </h2> 
+
 
 ```bash
 > MasterX.v2 launching... ███████░░░░░ 70%
