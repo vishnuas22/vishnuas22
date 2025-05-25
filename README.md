@@ -330,7 +330,6 @@ alt="Cat face" width="40" height="40" />   </h2>
   <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Hourglass%20Done.png" alt="Hourglass" width="50" height="50" />
   <h2> CURRENT MISSION </h2> 
 
-
 ```bash
 > MasterX.v2 launching... ███████░░░░░ 70%
 
