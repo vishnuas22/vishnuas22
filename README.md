@@ -291,7 +291,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 <div align='center'>
   <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Books.webp" alt="G1300" width="50" height="50" />
-  <h2>  PUBLICATIONS </h2>
+  <h2>  PUBLICATIONS 📚 </h2>
 </div>
 
 
