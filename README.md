@@ -174,19 +174,13 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 
 
-
-### 🚀 <span style="color:#00ffe0;">AGI Composer</span>
-> *First open-source AI music composer. Code that creates, evolves, and performs.*
-
-### 🧬 <span style="color:#aaffff;">QML-X</span>
-> *Quantum Machine Learning on real quantum hardware, from Qiskit to PennyLane.*
-
-### 🖼️ <span style="color:#ffb3ff;">Synaptic Art</span>
-> *Generative art, where neural nets paint the impossible.*
-
-### 🌱 <span style="color:#8affc1;">BioAlgo</span>
-> *Living, evolving algorithms. Code that mutates, adapts, and thrives.*
-
+| 🚀 Project | 🔗 Repository | 📝 Description |
+|------------|-------------|---------------|
+| **👩🏻‍🚀  MasterX-Origin**  | [🔗 GitHub](https://github.com/vishnuas22/MasterX-Origin) | A Self Evolving Global Skill Mentor. |
+| **🎨  RAD-GEN1** | [🔗 GitHub](https://github.com/vishnuas22/RAD-GEN1) | A User Friendly Image Playground. |
+| **🛒  ECOMMERCE-CLUSTER-CLTV-PRO** | [🔗 GitHub](https://github.com/vishnuas22/ECOMMERCE-CLUSTER-CLTV-PRO) | A Million Customer Data into key Strategies and CLTV|
+| **🧬  Deep Learning** | [🔗 GitHub](https://github.com/vishnuas22/Deep-Learning) | The Most wanted Deep Learning REPO |
+| **💻  Machine Learning** | [🔗 GitHub](https://github.com/vishnuas22/Machine-Learning.git) | The Most wanted Machine Learning REPO.
 
 <div align='center'>
   <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Robot.png" alt="Robot" width="80" height="80" />
