@@ -299,7 +299,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 <div align='center'>
   <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Robot.png" alt="Robot" width="50" height="50" />
-  <h2>  Q & A WITH MY AI TWIN </h2>
+  <h2>  Q & A WITH MY AI TWIN 🤖 </h2>
 </div>
 <details>
   <summary><b>🤖 Ask my AI Twin!</b></summary>
