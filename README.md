@@ -323,7 +323,7 @@ alt="Cat face" width="40" height="40" />   </h2>
   <h2> CURRENT MISSION </h2> 
 
 ```bash
-> MasterX.v2 launching... ███████░░░░░ 70%
+> Alpha launching... ███████░░░░░ 70%
 
 
 
