@@ -228,19 +228,19 @@ alt="Cat face" width="40" height="40" />   </h2>
 <table width="100%" align='center'>
   <tr>
     <td align="center">
-      <b style="color:#00ffe0;">2020</b><br>
+      <b style="color:#00ffe0;">2022</b><br>
       <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Technologist.webp" width="40"><br>
       <i>AI Foundations</i>
     </td>
     <td align="center">
-      <b style="color:#aaffff;">2022</b><br>
+      <b style="color:#aaffff;">2023</b><br>
       <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/DNA.png" width="40"><br>
-      <i>Quantum ML</i>
+      <i>Data Science</i>
     </td>
     <td align="center">
       <b style="color:#ffb3ff;">2023-24</b><br>
       <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Mirror%20Ball.png" width="40"><br>
-      <i>Bio-Algorithmics</i>
+      <i>Generative AI</i>
     </td>
     <td align="center">
       <b style="color:#8affc1;">2025+</b><br>
@@ -323,7 +323,7 @@ alt="Cat face" width="40" height="40" />   </h2>
   <h2> CURRENT MISSION </h2> 
 
 ```bash
-> Alpha launching... ███████░░░░░ 70%
+> Alpha launching... ███████░░░░░ 40%
 
 
 
