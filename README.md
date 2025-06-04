@@ -257,7 +257,7 @@ alt="Cat face" width="40" height="40" />   </h2>
   <h2> G-1300 </h2>
 </div>
 
-- ☀️ 5.30 AM: Cold Shower
+- <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Spider.png"  alt="G1300" width="30" height="30" /> 5.30 AM: Cold Shower
 - <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20in%20Lotus%20Position.png" alt="G1300" width="30" height="30" /> 5.45 AM: Meditate
 - <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Technologist.webp" alt="G1300" width="30" height="30" /> 6.00 AM: Reading, Mails, Networking
 - <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Man%20Running.png" alt="G1300" width="30" height="30" /> 7.30 AM: Sunrise run      
