@@ -174,7 +174,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 
 | 🚀 Project | 🔗 Repository | 📝 Description |
 |------------|-------------|---------------|
-| **👩🏻‍🚀  MasterX-Origin**  | [🔗 GitHub](https://github.com/vishnuas22/MasterX-Origin) | A Self Evolving Global Skill Mentor. |
+| **👩🏻‍🚀  MasterX**  | [🔗 GitHub](https://github.com/vishnuas22/MasterX) | A Self Evolving Global Skill Mentor. |
 | **🎨  RAD-GEN1** | [🔗 GitHub](https://github.com/vishnuas22/RAD-GEN1) | A User Friendly Image Playground. |
 | **🛒  ECOMMERCE-CLUSTER-CLTV-PRO** | [🔗 GitHub](https://github.com/vishnuas22/ECOMMERCE-CLUSTER-CLTV-PRO) | A Million Customer Data into key Strategies and CLTV|
 | **🧬  Deep Learning** | [🔗 GitHub](https://github.com/vishnuas22/Deep-Learning) | The Most wanted Deep Learning REPO |
