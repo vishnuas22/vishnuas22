@@ -18,7 +18,6 @@
 
 <!-- INSANE BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Scientist-%E2%9C%94%EF%B8%8F-1ABC9C.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Engineer-%E2%98%83%EF%B8%8F-34495E.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Reality-Breaker-FFC300.svg?style=for-the-badge" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vishnuas22.vishnuas22" />
