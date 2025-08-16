@@ -322,7 +322,7 @@ alt="Cat face" width="40" height="40" />   </h2>
   <h2> CURRENT MISSION </h2> 
 
 ```bash
-> MasterX- Global AI Mentor launching... ███████░░░░░ 60%
+> MasterX- Global AI Mentor launching... ███████░░░░░ 62%
 > Alpha launching... ███░░░░░ 30%
 
 
