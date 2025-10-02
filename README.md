@@ -144,9 +144,10 @@ alt="Cat face" width="40" height="40" />   </h2>
 <!--## 🏆 GitHub Stats & Activity -->
 <div align='center'>
   <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Fox.png" alt="fox" width="70" height="70" />
+<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
   <h2>GITHUB STATS & ACTIVITY</h2>
 </div>
-
 <div>
  <table align='center'>
   <tr>
