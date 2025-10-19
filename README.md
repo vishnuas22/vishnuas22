@@ -25,8 +25,8 @@
 
  <!-- Banners 2nd Phase -->
 <p align='center'>
+<img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/RETRO.gif" width="400px" height="250">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px" height="250">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400px" height="250">
 </p>
  <!-- Banners 2nd Phase -->
 
@@ -344,6 +344,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 ```bash
 > MasterX- Global AI Mentor launching... ███████░░░░░ 72%
 > Alpha launching... ███░░░░░ 30%
+
 
 
 
