@@ -338,7 +338,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 
   <!-- Footer -->
 <p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="300px"  >
+<img align='center' src= "https://github.com/vishnuas22/vishnuas22/blob/main/assets/Gemini_Generated_Image_fnjmaqfnjmaqfnjm.png" width="460px"  >
 </p>
 <!-- Footer -->
 
