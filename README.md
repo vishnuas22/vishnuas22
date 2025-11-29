@@ -25,8 +25,9 @@
 
  <!-- Banners 2nd Phase -->
 <p align='center'>
-<img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/RETRO.gif" width="400px" height="250">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px" height="250">
+<img src="https://img.freepik.com/premium-photo/3d-cartoon-using-laptops-sitting-chairs-cute-cartoon-working-playing-social-media-technology-futuristic-poster-ai-generative_43969-5452.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699056000&semt=ais" width="400px" height="300">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px" height="300">
+
 </p>
  <!-- Banners 2nd Phase -->
 
