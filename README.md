@@ -338,7 +338,7 @@ alt="Cat face" width="40" height="40" />   </h2>
 
   <!-- Footer -->
 <p align='center'>
-<img align='center' src= "https://github.com/vishnuas22/vishnuas22/blob/main/assets/Gemini_Generated_Image_fnjmaqfnjmaqfnjm.png" width="460px"  >
+<img align='center' src= "https://github.com/vishnuas22/vishnuas22/blob/main/assets/Gemini_Generated_Image_1ez40f1ez40f1ez4.png" width="460px"  >
 </p>
 <!-- Footer -->
 
