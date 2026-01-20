@@ -290,10 +290,8 @@ alt="Cat face" width="40" height="40" />   </h2>
   <h2> Fun Facts </h2>
 </div>
 
-- 🏄‍♂️ Once coded neural nets on the beach.
 - 🤖 My AI twin sometimes gives better advice than me.
 - 🍕 Pineapple on pizza? Yes, and add green chili!
-- 🦄 Can recite π to 50 digits, but prefers tau.
 
 <div align='center'>
   <img src="https://github.com/vishnuas22/vishnuas22/blob/main/assets/Books.webp" alt="G1300" width="50" height="50" />
